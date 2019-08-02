@@ -1,6 +1,6 @@
 {
   "name": "ngarch-dev",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Angular architecture tool",
   "scripts": {
     "ngarch": "node node_modules/ngarch-server/server",
